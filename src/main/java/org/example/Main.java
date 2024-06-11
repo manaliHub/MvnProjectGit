@@ -10,7 +10,7 @@ public class Main {
         System.out.printf("2nd commit");
         System.out.printf("3nd commit on feature1 branch");
         System.out.printf("4th commit on master branch");
-
+        System.out.printf("6th commit on master branch");
 
 
     }
