@@ -13,6 +13,7 @@ public class Main {
 
     public void newMethod(){
         System.out.println("This is feature1 newMethod");
+        System.out.println("This is master newMethod");
     }
 
 }
