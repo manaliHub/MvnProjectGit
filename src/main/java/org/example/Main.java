@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("This Maven Project Is crted from Intellij with java 111");
         System.out.printf("This Maven Project Is crted from Intellij with java 11");
+        System.out.printf("This Maven Project Is crted from Intellij with java 12");
     }
 
     public void newMethod(){
