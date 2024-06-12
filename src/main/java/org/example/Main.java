@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("This Maven Project Is crted from Intellij with java 11");
+        System.out.printf("This Maven Project Is crted from Intellij with java 111");
     }
 
     public void newMethod(){
